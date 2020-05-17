@@ -1,0 +1,2 @@
+# Brain_Projects
+This repo will consist of brain projects as it relates to the field of deep learning and computer vision techniques. As you know, the brain is a high complex organism within our bodies. Mapping the brain 100% is still an incredibly difficult task so my goal in this repo is to offer you a variety of different projects that can assist you on your brain mapping journey within the field of artificial intelligence and neuroscience.
